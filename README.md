@@ -25,10 +25,11 @@
 - [*Not maintaining*] [stock-analyser](https://github.com/edwardlaiyc/stock-analyser) - Full-stack stock analysis dashboard with React, FastAPI, financial charts, caching, and invoking LLMs for investment summaries.
 <!-- - [ccaweb](https://github.com/edwardlaiyc/ccaweb) - Raffles Institution Computer Science Society website built with Next.js and React. -->
 
-## Current Focus
+## What I'm Working On
 
-- AI workflows for business productivity: Learning on the job in my internships
-- Deep dive into fundamentals: ML, deep learning, databases
+- Tinkering with agentic skills and workflows: making my personal and professional life 100x more productive
+- Playing with local LLMs
+- Diving deep into fundamentals: math, ML, deep learning
 
 <!-- ## How I Think About Building
 
